@@ -6727,6 +6727,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 00:48:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/charging_station": {
     "criteria": {
       "has_coil_lv": "2024-12-31 00:06:50 +0000"
