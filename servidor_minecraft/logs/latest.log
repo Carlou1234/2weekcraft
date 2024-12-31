@@ -2,3 +2,9 @@
 [31Dec2024 00:20:18.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Really Hot Topic]
 [31Dec2024 00:25:42.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [31Dec2024 00:25:42.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[31Dec2024 00:41:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [The Upgrade]
+[31Dec2024 00:48:31.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[31Dec2024 00:48:36.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[31Dec2024 00:48:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Bound Forever]
+[31Dec2024 00:48:46.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[31Dec2024 00:50:04.685] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType

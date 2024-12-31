@@ -6457,15 +6457,63 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2024-12-31 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_steel_to_ingot_steel": {
+    "criteria": {
+      "has_storage_steel": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/blastbrick_from_slab": {
     "criteria": {
       "has_blastbrick": "2024-12-31 00:02:46 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/blastbrick_reinforced": {
     "criteria": {
       "has_blastbrick": "2024-12-31 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
     },
     "done": true
   },
@@ -6481,6 +6529,24 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_steel_to_storage_steel": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/furnace_heater": {
     "criteria": {
       "has_coil_lv": "2024-12-31 00:06:50 +0000"
@@ -6493,9 +6559,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/breaker_switch": {
     "criteria": {
       "has_wirecoil_copper": "2024-12-31 00:06:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
     },
     "done": true
   },
@@ -6511,6 +6595,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
     "criteria": {
       "has_wirecutter": "2024-12-31 00:06:00 +0000"
@@ -6523,15 +6613,39 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/strip_lv": {
     "criteria": {
       "has_copper_coil": "2024-12-31 00:06:19 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/nether_brick": {
     "criteria": {
       "has_copper_block": "2024-12-30 23:56:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
     },
     "done": true
   },
@@ -6553,9 +6667,27 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alloybrick_to_slab": {
     "criteria": {
       "has_alloybrick": "2024-12-30 23:55:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
     },
     "done": true
   },
@@ -6571,9 +6703,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/hemp_fabric": {
     "criteria": {
       "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2024-12-31 00:41:42 +0000"
     },
     "done": true
   },
