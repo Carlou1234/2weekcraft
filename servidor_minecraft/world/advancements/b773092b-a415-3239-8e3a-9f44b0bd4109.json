@@ -6547,6 +6547,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-31 01:53:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 00:41:45 +0000"
