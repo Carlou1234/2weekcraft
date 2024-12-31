@@ -6565,6 +6565,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "form_multiblock": "2024-12-31 00:20:18 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_copper_ins": {
     "criteria": {
       "has_item": "2024-12-31 00:06:19 +0000"
