@@ -6505,6 +6505,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_dynamo": {
+    "criteria": {
+      "place_block": "2024-12-31 01:46:28 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/chute_iron": {
     "criteria": {
       "has_plate": "2024-12-31 01:24:44 +0000"
@@ -6775,6 +6781,18 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2024-12-31 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_mv": {
+    "criteria": {
+      "has_electrum_coil": "2024-12-31 01:48:05 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/strip_lv": {
     "criteria": {
       "has_copper_coil": "2024-12-31 00:06:19 +0000"
@@ -6802,6 +6820,12 @@
   "immersiveengineering:recipes/misc/crafting/rockcutter": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_electrum": {
+    "criteria": {
+      "has_plate_electrum": "2024-12-31 01:39:08 +0000"
     },
     "done": true
   },
@@ -6850,6 +6874,12 @@
   "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
     "criteria": {
       "has_iron_plate": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum_ins": {
+    "criteria": {
+      "has_item": "2024-12-31 01:48:05 +0000"
     },
     "done": true
   },
