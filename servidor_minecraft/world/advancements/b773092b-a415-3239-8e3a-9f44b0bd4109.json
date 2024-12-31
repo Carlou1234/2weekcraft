@@ -6475,6 +6475,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/string": {
+    "criteria": {
+      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/furnace_heater": {
     "criteria": {
       "has_coil_lv": "2024-12-31 00:06:50 +0000"
@@ -6511,6 +6517,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_rope": {
+    "criteria": {
+      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/strip_lv": {
     "criteria": {
       "has_copper_coil": "2024-12-31 00:06:19 +0000"
@@ -6526,6 +6538,12 @@
   "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
     "criteria": {
       "has_alloybrick": "2024-12-30 23:55:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete": {
+    "criteria": {
+      "has_item": "2024-12-31 00:27:29 +0000"
     },
     "done": true
   },
@@ -6550,6 +6568,12 @@
   "immersiveengineering:recipes/misc/crafting/blastbrick_to_slab": {
     "criteria": {
       "has_blastbrick": "2024-12-31 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hemp_fabric": {
+    "criteria": {
+      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
     },
     "done": true
   },
