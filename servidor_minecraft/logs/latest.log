@@ -41,3 +41,9 @@
 [31Dec2024 01:10:38.536] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3018f8a4]Can't spawn wave because max cap has been reached
 [31Dec2024 01:10:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Set own game mode to Creative Mode]
 [31Dec2024 01:11:30.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Set own game mode to Survival Mode]
+[31Dec2024 01:11:58.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[31Dec2024 01:16:59.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[31Dec2024 01:18:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo drowned
+[31Dec2024 01:18:00.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[31Dec2024 01:18:00.482] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[31Dec2024 01:24:20.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy

@@ -9101,3 +9101,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 01:10:38.536] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3018f8a4]Can't spawn wave because max cap has been reached
 [31Dec2024 01:10:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Set own game mode to Creative Mode]
 [31Dec2024 01:11:30.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Set own game mode to Survival Mode]
+[31Dec2024 01:11:58.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:11:58.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:11:58.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[31Dec2024 01:16:58.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:16:58.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:16:59.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[31Dec2024 01:18:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo drowned
+[31Dec2024 01:18:00.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[31Dec2024 01:18:00.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrDaalo was created at position [x:-1031, y:61, z:480, dim:minecraft:overworld]
+[31Dec2024 01:18:00.482] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[31Dec2024 01:21:58.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:21:58.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:24:20.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[31Dec2024 01:26:58.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:26:58.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:31:58.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:31:58.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:36:58.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:36:58.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
