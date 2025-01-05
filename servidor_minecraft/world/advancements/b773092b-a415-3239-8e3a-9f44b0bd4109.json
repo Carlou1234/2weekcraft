@@ -7021,5 +7021,17 @@
     },
     "done": true
   },
+  "apocalypsenow:electricalengineeringiseasy": {
+    "criteria": {
+      "electricalengineeringiseasy_0": "2025-01-05 21:37:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-05 21:41:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
