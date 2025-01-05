@@ -1179,6 +1179,7 @@
       "minecraft:husk": "2024-12-26 18:34:53 +0000",
       "minecraft:cave_spider": "2024-12-26 19:17:01 +0000",
       "minecraft:enderman": "2024-12-26 21:40:34 +0000",
+      "minecraft:stray": "2025-01-05 22:23:36 +0000",
       "minecraft:zombie": "2024-12-23 19:02:18 +0000",
       "minecraft:drowned": "2024-12-26 22:18:19 +0000",
       "minecraft:zombie_villager": "2024-12-23 19:04:10 +0000"
@@ -2112,6 +2113,7 @@
       "pumpkin_patch": "2024-12-26 01:18:41 +0000",
       "prairie": "2024-12-26 01:33:22 +0000",
       "snowy_fir_clearing": "2024-12-28 02:24:38 +0000",
+      "snowy_coniferous_forest": "2025-01-05 22:14:12 +0000",
       "gravel_beach": "2024-12-26 18:53:14 +0000",
       "undergrowth": "2024-12-29 01:18:22 +0000",
       "ominous_woods": "2024-12-26 23:34:34 +0000"
@@ -7030,6 +7032,127 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-01-05 21:41:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-05 21:53:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-05 21:53:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-05 21:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-05 21:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-05 21:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-05 22:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-05 22:06:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 22:12:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-01-05 22:12:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 22:12:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-05 22:12:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 22:12:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-05 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-01-05 22:16:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-05 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-01-05 22:24:34 +0000",
+      "charm_collector_2": "2025-01-05 22:24:35 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-05 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-01-05 22:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-05 22:25:56 +0000"
     },
     "done": true
   },
