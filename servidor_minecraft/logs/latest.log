@@ -1003,3 +1003,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 21:07:23.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [05Jan2025 21:07:23.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
 [05Jan2025 21:07:41.915] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[05Jan2025 21:13:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was doomed to fall
+[05Jan2025 21:13:03.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[05Jan2025 21:13:03.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[05Jan2025 21:13:03.828] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[05Jan2025 21:13:07.810] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[05Jan2025 21:20:56.360] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/gui/IESlot$NewFluidContainer$Filter
