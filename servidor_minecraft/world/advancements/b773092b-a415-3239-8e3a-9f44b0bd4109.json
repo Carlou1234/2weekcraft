@@ -6451,9 +6451,93 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/connector_mv": {
+  "immersiveengineering:tools/tools_root": {
     "criteria": {
-      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
+      "has_item": "2024-12-30 23:49:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-12-30 23:49:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
+    "criteria": {
+      "has_alloybrick": "2024-12-30 23:55:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick_to_slab": {
+    "criteria": {
+      "has_alloybrick": "2024-12-30 23:55:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/nether_brick": {
+    "criteria": {
+      "has_copper_block": "2024-12-30 23:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-30 23:56:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_from_slab": {
+    "criteria": {
+      "has_blastbrick": "2024-12-31 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_reinforced": {
+    "criteria": {
+      "has_blastbrick": "2024-12-31 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_to_slab": {
+    "criteria": {
+      "has_blastbrick": "2024-12-31 00:02:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2024-12-31 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_copper": {
+    "criteria": {
+      "has_plate_copper": "2024-12-31 00:05:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2024-12-31 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/breaker_switch": {
+    "criteria": {
+      "has_wirecoil_copper": "2024-12-31 00:06:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_lv": {
+    "criteria": {
+      "has_copper_coil": "2024-12-31 00:06:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper_ins": {
+    "criteria": {
+      "has_item": "2024-12-31 00:06:19 +0000"
     },
     "done": true
   },
@@ -6463,9 +6547,69 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/thermoelectric_generator": {
+    "criteria": {
+      "has_coil_lv": "2024-12-31 00:06:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/furnace_heater": {
+    "criteria": {
+      "has_coil_lv": "2024-12-31 00:06:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/dynamo": {
+    "criteria": {
+      "has_coil_lv": "2024-12-31 00:06:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/charging_station": {
+    "criteria": {
+      "has_coil_lv": "2024-12-31 00:06:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "form_multiblock": "2024-12-31 00:20:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/string": {
+    "criteria": {
+      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_rope": {
+    "criteria": {
+      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hempcrete": {
+    "criteria": {
+      "has_item": "2024-12-31 00:27:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hemp_fabric": {
+    "criteria": {
+      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
     "criteria": {
       "has_coke": "2024-12-31 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2024-12-31 00:41:42 +0000"
     },
     "done": true
   },
@@ -6487,57 +6631,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/transformer": {
-    "criteria": {
-      "has_mv_connector": "2024-12-31 01:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-31 01:05:51 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/place_dynamo": {
-    "criteria": {
-      "place_block": "2024-12-31 01:46:28 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_iron": {
-    "criteria": {
-      "has_plate": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-12-31 01:33:44 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:main/make_steel": {
     "criteria": {
       "has_item": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-31 01:05:51 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blastbrick_from_slab": {
-    "criteria": {
-      "has_blastbrick": "2024-12-31 00:02:46 +0000"
     },
     "done": true
   },
@@ -6547,21 +6643,135 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-31 01:53:57 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 00:41:45 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
     "criteria": {
-      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
+      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_steel_to_storage_steel": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 00:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-31 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 01:05:51 +0000"
     },
     "done": true
   },
@@ -6583,87 +6793,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blastbrick_reinforced": {
-    "criteria": {
-      "has_blastbrick": "2024-12-31 00:02:46 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
-    "criteria": {
-      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_boots_from_blasting": {
-    "criteria": {
-      "has_armor_steel_boots": "2024-12-31 01:07:07 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron": {
-    "criteria": {
-      "has_plate_iron": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/thermoelectric_generator": {
-    "criteria": {
-      "has_coil_lv": "2024-12-31 00:06:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/string": {
-    "criteria": {
-      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sawblade": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/ingot_steel_to_storage_steel": {
-    "criteria": {
-      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2024-12-31 01:01:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-31 01:05:51 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/component_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/furnace_heater": {
-    "criteria": {
-      "has_coil_lv": "2024-12-31 00:06:50 +0000"
     },
     "done": true
   },
@@ -6679,75 +6811,9 @@
     },
     "done": true
   },
-  "immersiveengineering:tools/tools_root": {
-    "criteria": {
-      "has_item": "2024-12-30 23:49:29 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/breaker_switch": {
-    "criteria": {
-      "has_wirecoil_copper": "2024-12-31 00:06:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_structural": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
-    "criteria": {
-      "has_iron_plate": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-31 01:05:51 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/ingot_electrum_to_storage_electrum": {
-    "criteria": {
-      "has_ingot_electrum": "2024-12-31 01:28:18 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/dynamo": {
-    "criteria": {
-      "has_coil_lv": "2024-12-31 00:06:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_copper": {
-    "criteria": {
-      "has_plate": "2024-12-31 00:05:30 +0000"
     },
     "done": true
   },
@@ -6763,111 +6829,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
-    "criteria": {
-      "has_wirecutter": "2024-12-31 00:06:00 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_rope": {
-    "criteria": {
-      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/connect_wire": {
-    "criteria": {
-      "code_trigger": "2024-12-31 01:48:36 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/strip_mv": {
-    "criteria": {
-      "has_electrum_coil": "2024-12-31 01:48:05 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/strip_lv": {
-    "criteria": {
-      "has_copper_coil": "2024-12-31 00:06:19 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-31 01:05:51 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/rockcutter": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_electrum": {
-    "criteria": {
-      "has_plate_electrum": "2024-12-31 01:39:08 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/nether_brick": {
-    "criteria": {
-      "has_copper_block": "2024-12-30 23:56:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/heavy_engineering": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alloybrick_from_slab": {
-    "criteria": {
-      "has_alloybrick": "2024-12-30 23:55:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hempcrete": {
-    "criteria": {
-      "has_item": "2024-12-31 00:27:29 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_copper": {
-    "criteria": {
-      "has_plate_copper": "2024-12-31 00:05:30 +0000"
     },
     "done": true
   },
@@ -6877,99 +6841,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
-    "criteria": {
-      "has_iron_plate": "2024-12-31 01:24:44 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum_ins": {
-    "criteria": {
-      "has_item": "2024-12-31 01:48:05 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:multiblocks/multiblocks_root": {
-    "criteria": {
-      "has_item": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alloybrick_to_slab": {
-    "criteria": {
-      "has_alloybrick": "2024-12-30 23:55:23 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
-    "criteria": {
-      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_boots": {
-    "criteria": {
-      "has_armor_steel_boots": "2024-12-31 01:07:07 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sword_steel": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-31 01:05:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-30 23:56:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blastbrick_to_slab": {
-    "criteria": {
-      "has_blastbrick": "2024-12-31 00:02:46 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
-    "criteria": {
-      "has_ingot_steel": "2024-12-31 00:41:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/current_transformer": {
-    "criteria": {
-      "has_voltmeter": "2024-12-31 01:34:00 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hemp_fabric": {
-    "criteria": {
-      "has_hemp_fiber": "2024-12-31 00:27:29 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
-    "criteria": {
-      "has_coal_coke": "2024-12-31 00:41:42 +0000"
     },
     "done": true
   },
@@ -6979,45 +6853,171 @@
     },
     "done": true
   },
-  "tombstone:adventure/revive_familiar": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 00:48:46 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/charging_station": {
-    "criteria": {
-      "has_coil_lv": "2024-12-31 00:06:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/craft_workbench": {
-    "criteria": {
-      "has_item": "2024-12-30 23:49:29 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/mb_blastfurnace": {
-    "criteria": {
-      "form_multiblock": "2024-12-31 00:20:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-31 01:05:51 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_copper_ins": {
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_boots_from_blasting": {
     "criteria": {
-      "has_item": "2024-12-31 00:06:19 +0000"
+      "has_armor_steel_boots": "2024-12-31 01:07:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_boots": {
+    "criteria": {
+      "has_armor_steel_boots": "2024-12-31 01:07:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron": {
+    "criteria": {
+      "has_plate_iron": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2024-12-31 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_mv_relay": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_electrum_to_storage_electrum": {
+    "criteria": {
+      "has_ingot_electrum": "2024-12-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/heavy_engineering": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-31 01:28:18 +0000"
     },
     "done": true
   },
   "immersiveengineering:recipes/misc/crafting/storage_electrum_to_ingot_electrum": {
     "criteria": {
       "has_storage_electrum": "2024-12-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/transformer": {
+    "criteria": {
+      "has_mv_connector": "2024-12-31 01:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-31 01:33:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/current_transformer": {
+    "criteria": {
+      "has_voltmeter": "2024-12-31 01:34:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_electrum": {
+    "criteria": {
+      "has_plate_electrum": "2024-12-31 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_dynamo": {
+    "criteria": {
+      "place_block": "2024-12-31 01:46:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_mv": {
+    "criteria": {
+      "has_electrum_coil": "2024-12-31 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_electrum_ins": {
+    "criteria": {
+      "has_item": "2024-12-31 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2024-12-31 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-31 01:53:57 +0000"
     },
     "done": true
   },
