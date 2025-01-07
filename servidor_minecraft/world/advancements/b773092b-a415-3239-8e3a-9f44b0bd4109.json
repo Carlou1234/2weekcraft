@@ -7298,15 +7298,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-07 04:13:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-01-07 03:24:26 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 04:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-01-07 03:24:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_scribe": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 04:20:25 +0000"
     },
     "done": true
   },
