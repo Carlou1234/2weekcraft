@@ -1020,3 +1020,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 03:58:42.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [07Jan2025 03:59:08.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [07Jan2025 03:59:12.486] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[07Jan2025 04:05:49.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[07Jan2025 04:08:21.331] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
+[07Jan2025 04:14:24.868] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
