@@ -1030,3 +1030,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 04:20:08.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Traveling lightning rod]
 [07Jan2025 04:20:21.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [07Jan2025 04:20:25.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Magic Scribing]
+[07Jan2025 04:50:29.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
+[07Jan2025 04:50:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
