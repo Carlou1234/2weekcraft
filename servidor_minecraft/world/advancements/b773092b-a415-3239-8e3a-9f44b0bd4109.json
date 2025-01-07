@@ -628,8 +628,10 @@
       "cooked_mutton": "2024-12-26 18:17:43 +0000",
       "cooked_beef": "2024-12-23 19:49:11 +0000",
       "potato": "2024-12-23 17:05:30 +0000",
+      "pumpkin_pie": "2025-01-07 02:34:04 +0000",
       "bread": "2024-12-26 18:09:08 +0000",
       "golden_apple": "2024-12-26 18:06:33 +0000",
+      "cooked_chicken": "2025-01-07 02:37:23 +0000",
       "mushroom_stew": "2024-12-26 23:32:06 +0000",
       "carrot": "2024-12-26 16:56:46 +0000"
     },
@@ -2107,6 +2109,7 @@
       "visceral_heap": "2024-12-26 18:12:52 +0000",
       "dune_beach": "2024-12-26 23:12:59 +0000",
       "seasonal_forest": "2024-12-26 23:12:55 +0000",
+      "auroral_garden": "2025-01-07 01:56:42 +0000",
       "pasture": "2024-12-26 03:29:02 +0000",
       "lavender_field": "2024-12-26 23:12:58 +0000",
       "fir_clearing": "2024-12-26 02:55:31 +0000",
@@ -2116,6 +2119,7 @@
       "snowy_coniferous_forest": "2025-01-05 22:14:12 +0000",
       "gravel_beach": "2024-12-26 18:53:14 +0000",
       "undergrowth": "2024-12-29 01:18:22 +0000",
+      "crag": "2025-01-07 02:05:18 +0000",
       "ominous_woods": "2024-12-26 23:34:34 +0000"
     },
     "done": false
@@ -7153,6 +7157,144 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-01-05 22:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-07 01:41:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_trapdoor": "2025-01-07 01:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-07 01:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-07 01:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-07 01:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-07 01:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-07 01:56:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
+    "criteria": {
+      "has_icy_iris": "2025-01-07 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-01-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-01-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-01-07 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-07 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-07 02:01:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 02:08:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 02:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-07 02:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-07 02:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-07 02:14:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-07 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-07 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 02:41:24 +0000"
     },
     "done": true
   },
